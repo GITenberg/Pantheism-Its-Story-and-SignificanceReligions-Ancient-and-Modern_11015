@@ -1,5 +1,8 @@
 _repo: Pantheism-Its-Story-and-SignificanceReligions-Ancient-and-Modern_11015
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Picton, J. Allanson (James Allanson)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3795'
     url: http://www.gutenberg.org/2009/agents/3795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11015#Pantheism-Its-Story-and-SignificanceReligions-Ancient-and-Modern
 gutenberg_bookshelf: Paganism
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
